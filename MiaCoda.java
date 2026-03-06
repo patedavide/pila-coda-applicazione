@@ -1,15 +1,5 @@
 public class MiaCoda {
 
-    private class Nodo {
-        String value;
-        Nodo next;
-
-        Nodo(String value) {
-            this.value = value;
-            this.next = null;
-        }
-    }
-
     Nodo testa;
     Nodo coda;
 
